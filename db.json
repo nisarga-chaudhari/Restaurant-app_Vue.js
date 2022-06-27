@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "email": "nisarga@gmail.com",
+      "name": "Nisarga",
+      "password": "Nisarga@123",
+      "id": 2
+    },
+    {
+      "email": "devesh@gmail.com",
+      "name": "Devesh",
+      "password": "Devesh@123",
+      "id": 3
+    },
+    {
+      "email": "rasika@gmail.com",
+      "name": "Rasika",
+      "password": "Rasu@123",
+      "id": 4
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact": 1111,
+      "address": "Noida sector 50"
+    },
+    {
+      "name": "KFC",
+      "contact": "4444",
+      "address": "UK",
+      "id": 2
+    },
+    {
+      "name": "MacD",
+      "contact": "9595",
+      "address": "Mumbai",
+      "id": 3
+    }
+  ]
+}
